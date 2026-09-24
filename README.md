@@ -20,7 +20,7 @@
 
 > *"Build things that matter. Automate what's repetitive. Understand what's human."*
 
-I'm a **B.Tech Artificial Intelligence** student at **Shoolini University** (CGPA: **9.0**), passionate about applying AI to **automation**, **sustainability**, and **data-driven decision systems**. I love building end-to-end pipelines — from raw data to intelligent, deployable products.
+I'm a **B.Tech Artificial Intelligence** student at **Shoolini University** (CGPA: **8.9**), passionate about applying AI to **automation**, **sustainability**, and **data-driven decision systems**. I love building end-to-end pipelines — from raw data to intelligent, deployable products.
 
 - 🔬 Actively building **AI pipelines**, **backend architectures**, and **full-stack solutions**
 - 💻 I train and run local models on my personal **GTX 1650 / Intel i5** setup
